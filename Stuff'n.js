@@ -1,6 +1,6 @@
 elements.Recycle_Filter = {
   color: "#8888ff",
-  category: "Filterings",
+  category: "MACHINES",
   state: "solid",
   density: 1000,
   filterList: ["mud", "grass", "wood"], // lowercase names!
@@ -17,3 +17,4 @@ elements.Recycle_Filter = {
     }
   }
 };
+
